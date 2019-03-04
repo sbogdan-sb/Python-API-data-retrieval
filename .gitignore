@@ -1,8 +1,14 @@
 # Byte-compiled / optimized / DLL files
+#
+#
 __pycache__/
 *.py[cod]
 *$py.class
-
+api_keys.py
+README.md
+WeatherPy_Example.pdf
+Scratch.ipynb
+Example.ipynb
 # C extensions
 *.so
 
